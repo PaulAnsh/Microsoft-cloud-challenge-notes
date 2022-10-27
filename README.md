@@ -22,7 +22,6 @@ Azure provides built-in roles that describe common access rules for cloud resour
 Role-based access control is applied to a scope, which is a resource or set of resources that this access applies to.
 
 Here's a diagram that shows the relationship between roles and scopes.
-![image](https://user-images.githubusercontent.com/74669526/198342081-a94b0191-668d-41e3-977f-5e3777413f43.png)
 ![image](https://user-images.githubusercontent.com/74669526/198342377-2f76ca26-4b34-4b3f-8ed2-639f8fbed12e.png)
 
 
